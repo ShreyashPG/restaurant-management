@@ -105,7 +105,7 @@ git clone https://github.com/ShreyashPG/restaurant-management.git
 
 2. Navigate to the project directory
 ```bash
-cd go-restro-backend
+cd restaurant-management
 ```
 
 3. Install dependencies
