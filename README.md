@@ -100,7 +100,7 @@ go-restro-backend/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/go-restro-backend.git
+git clone https://github.com/ShreyashPG/go-restro-backend.git
 ```
 
 2. Navigate to the project directory
