@@ -51,6 +51,11 @@ go-restro-backend/
 - Invoice
 - Note
 
+## 📊 API Architecture Diagram
+
+![API Diagram](Restaurant_API_Diagram.drawio.png)
+
+
 ## API Endpoints
 
 ### User Routes
